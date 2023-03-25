@@ -26,4 +26,4 @@ then
   * Initialize the EdgeMarkers with `var edgeMarkers = L.edgeMarker().addTo(map)` **after** you initialized your `map` and Markers/Circles/CircleMarkers
   * To remove the EdgeMarkers, call `edgeMarkers.destroy()`
 
-**Or look at the source of `example.html`**
+**Or look at the source of [demo.html](./demo.html)**
